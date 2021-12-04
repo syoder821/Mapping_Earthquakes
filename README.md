@@ -1,4 +1,4 @@
-# Mapping_Earthquakes
+# Earthquake Mapping Challenge
 
 # Basic Project Plan
 ## Purpose
